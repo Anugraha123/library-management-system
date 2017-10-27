@@ -1,0 +1,16 @@
+
+.form-inline .form-control {
+    width: 250px;
+	border-radius: 0px;
+	margin-left:20px;
+}
+
+
+.form-inline p{
+	margin-left: 20px;
+	font-size: 12px;
+}
+
+input[type="text"]{
+	margin-top: 5px;
+}
